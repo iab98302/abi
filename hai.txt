@@ -1,3 +1,5 @@
 hai.
 what is your name?
 my name is abin.
+what do you do?
+i am studying.
